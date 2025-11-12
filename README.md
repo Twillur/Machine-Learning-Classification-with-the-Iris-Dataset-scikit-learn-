@@ -1,6 +1,6 @@
-# 🧠 Machine Learning Classification with the Iris Dataset (scikit-learn)
+#  Machine Learning Classification with the Iris Dataset (scikit-learn)
 
-## 📘 Overview
+##  Overview
 This project demonstrates a **machine learning classification task** using the **Iris dataset**.  
 A **Random Forest Classifier** from `scikit-learn` predicts the species of an iris flower using four key measurements:  
 - Sepal Length  
@@ -12,7 +12,7 @@ The program also includes an **interactive prediction mode**, where users can in
 
 ---
 
-## 🌸 Sepal and Petal Visualization
+##  Sepal and Petal Visualization
 
 ![Sepal Measurements](Sepal%20Measurements.png)
 
@@ -21,7 +21,7 @@ These four dimensions form the features used to train the model.
 
 ---
 
-## ⚙️ Step 1: Import Libraries
+##  Step 1: Import Libraries
 
 ![Import Libraries](Import%20libraries.png)
 
@@ -36,7 +36,7 @@ These four dimensions form the features used to train the model.
 
 ---
 
-## 📊 Step 2: Data Splitting
+##  Step 2: Data Splitting
 
 ![Split Data](Split%20Data.png)
 
@@ -48,7 +48,7 @@ This prevents **overfitting** and provides a fair accuracy measurement.
 
 ---
 
-## 🌼 Step 3: Input and Output Example
+##  Step 3: Input and Output Example
 
 ![InputOutput](InputOutput.png)
 
@@ -63,7 +63,7 @@ The classifier accurately identified all species, achieving **100% accuracy** on
 
 ---
 
-## 🧠 Step 4: Model and Dataset Summary
+##  Step 4: Model and Dataset Summary
 
 ### Iris Dataset Measurement Ranges
 
@@ -77,7 +77,7 @@ These measurements define the physical distinctions between the three Iris speci
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 - **Python**
 - **scikit-learn**
 - **pandas**
@@ -85,7 +85,7 @@ These measurements define the physical distinctions between the three Iris speci
 
 ---
 
-## 🚀 Running the Program
+##  Running the Program
 
 ### 1. Install Dependencies
 ```bash
