@@ -8,7 +8,7 @@ A **Random Forest Classifier** from `scikit-learn` predicts the species of an ir
 - Petal Length  
 - Petal Width  
 
-The program also includes an **interactive prediction mode**, where users can input custom values to predict the flower species in real time.
+The program also includes an **interactive predicton mode**, where users can input custom values to predict the flower species in real time.
 
 ---
 
